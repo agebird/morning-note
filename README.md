@@ -1,6 +1,6 @@
 # Morning Note — 晨会纪要
 
-卖方投研风格的晨会纪要生成器。管理自选股列表，通过 Claude CLI 调用 equity-research 插件生成每日晨会报告。
+买方风格的晨会纪要生成器。管理自选股列表，通过 Claude CLI 调用 equity-research 插件生成每日晨会报告。
 
 ## 功能
 
